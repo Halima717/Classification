@@ -96,9 +96,21 @@ These metrics helped identify:
 - Accuracy can be further improved with:
   - Larger datasets  
   - Transfer learning from pre-trained medical models  
-  - Class balancing techniques  
+  - Class balancing techniques
+    
+## Performance & Evaluation
+
+**Model Training:**  
+The CNN was trained over multiple epochs and achieved a peak training accuracy of **81% at the 12th epoch**, indicating effective learning of tumor-related features from the MRI scans.
+
+**Final Evaluation:**  
+After training was completed, the model was evaluated on a **separate Test Set** to assess its ability to generalize to unseen MRI images. This step ensures that the reported performance is not limited to the training data.
+
+**Confusion Matrix:**  
+The confusion matrices present the final classification results on the Test Set. While training accuracy reflects how well the model learned during training, the confusion matrix provides deeper insight into how accurately the model distinguishes between specific tumor types (Glioma, Meningioma, Pituitary, and No Tumor) at the end of the training process.
 
 This project demonstrates a **realistic and defensible deep learning pipeline** for medical image classification.
 
 ---
+
 
