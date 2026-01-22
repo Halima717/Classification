@@ -17,7 +17,7 @@ Manual diagnosis is time-consuming and can vary between experts. This project in
 
 ## Dataset
 
-- Source: **Kaggle Brain MRI Dataset** *[](https://www.kaggle.com/datasets/lakshancooray23/tumour-classification-images)*  
+- Source: **Kaggle Brain MRI Dataset** *[Kaggle Brain MRI Dataset](https://www.kaggle.com/datasets/lakshancooray23/tumour-classification-images)*  
 - Classes:
   - Glioma  
   - Meningioma  
