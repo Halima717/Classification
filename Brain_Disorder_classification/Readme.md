@@ -17,7 +17,7 @@ Manual diagnosis is time-consuming and can vary between experts. This project in
 
 ## Dataset
 
-- Source: **Kaggle Brain MRI Dataset** *(link can be added)*  
+- Source: **Kaggle Brain MRI Dataset** *[](https://www.kaggle.com/datasets/lakshancooray23/tumour-classification-images)*  
 - Classes:
   - Glioma  
   - Meningioma  
@@ -101,3 +101,4 @@ These metrics helped identify:
 This project demonstrates a **realistic and defensible deep learning pipeline** for medical image classification.
 
 ---
+
